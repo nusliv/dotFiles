@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/vakiln/local-k8/local-dep/scripts'
+let g:netrw_dirhist_2='/Users/vakiln/local-k8/vm/controller'
+let g:netrw_dirhist_3='/Users/vakiln/local-k8/go'
+let g:netrw_dirhist_4='/Users/vakiln/local-k8/go/src/golang.autodesk.com/anvil/platform/servers/frontend/api-server/anvil.autodesk.com/pkgs/autodesk/anvil/1.0/protos'
